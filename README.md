@@ -11,11 +11,11 @@ The model starts with a convolutional module, followed by two inception modules.
 
 ![model](https://user-images.githubusercontent.com/49917684/155893219-6fbd5cb2-22c3-4259-8094-8846f33ce2ad.png)
 
-## The results
+## Results
 
 **Trained for 50 epochs**
 
-We achieved an accuracy of 91.21% when training for 50 epochs.
+We achieved an accuracy of 91.21% on the test data when training for 50 epochs.
 
 ![eval_50_white](https://user-images.githubusercontent.com/49917684/155899443-ec74dfac-e701-45eb-b5c1-8c0065f0f839.png)
 
