@@ -15,7 +15,7 @@ The model starts with a convolutional module, followed by two inception modules.
 
 **Trained for 50 epochs**
 
-We achieved an accuracy of 91.21% on the test data when training for 50 epochs. The model has the most difficults distinguishing between cats and dogs.
+We achieved an accuracy of 91.21% on the test data when training for 50 epochs. The model has the most difficulty in distinguishing between cats and dogs.
 
 ![eval_50_white](https://user-images.githubusercontent.com/49917684/155899443-ec74dfac-e701-45eb-b5c1-8c0065f0f839.png)
 
