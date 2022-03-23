@@ -1,7 +1,7 @@
 # CIFAR10-competition_model
 By: TheodorEmanuelsson and chayansraj
 
-Model for the inclass competition in Neural Networks and Learning Systems course at Linköping Univerity, spring 2022. The competition allows for only training for 50 epochs. The model is build using tensorflow, keras and utilized a RTX 2080 8GB GPU via CUDA.
+Model for the inclass competition in Neural Networks and Learning Systems course at Linköping Univerity, spring 2022. The competition restricts training iterations to 50 epochs. The model is build using tensorflow, keras and utilized a RTX 2080 8GB GPU via CUDA.
 
 ## The model
 
@@ -15,7 +15,7 @@ The model starts with a convolutional module, followed by two inception modules.
 
 **Trained for 50 epochs**
 
-We achieved an accuracy of 91.21% on the test data when training for 50 epochs.
+We achieved an accuracy of 91.21% on the test data when training for 50 epochs. The model has the most difficults distinguishing between cats and dogs.
 
 ![eval_50_white](https://user-images.githubusercontent.com/49917684/155899443-ec74dfac-e701-45eb-b5c1-8c0065f0f839.png)
 
